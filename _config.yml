@@ -24,6 +24,8 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Calendar', link: '/calendar'}
+
 
 tagline: >
   just a student
